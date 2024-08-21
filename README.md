@@ -1,2 +1,3 @@
 # EDA-on-Flight-Prices-of-India
-The objective of the study is to perform an exploratory data analysis on the flight booking dataset obtained from “Ease My Trip” website in order to get meaningful information from it. 
+The objective of the study is to perform an exploratory data analysis on the flight booking dataset obtained from “Ease My Trip” website in order to get meaningful information from it. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers.
+A total of 10684 distinct flight booking options was extracted from the site. Data was collected from March 11th to June 31st, 2019. Data source was secondary data and was collected from Ease my trip website. Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 10684 datapoints and 11 features in the cleaned dataset.
